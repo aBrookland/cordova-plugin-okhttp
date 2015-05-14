@@ -20,7 +20,7 @@ under the License.
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-okhttp"
-    version="2.0.0-dev">
+    version="1.0.0">
     <name>OkHttp</name>
     <description>Uses OkHttp for network requests initiated from Java (e.g. via FileTransfer plugin).</description>
     <license>Apache 2.0</license>
@@ -28,8 +28,8 @@ under the License.
     <repo>https://github.com/MobileChromeApps/cordova-plugin-okhttp.git</repo>
     <issue>https://github.com/MobileChromeApps/cordova-plugin-okhttp/issues</issue>
     <engines>
-        <engine name="cordova-android" version=">=4.0.0-dev" /><!-- needed for gradle support -->
-        <engine name="cordova-plugman" version=">=4.2.1-dev" /><!-- needed for gradle framework support -->
+        <engine name="cordova-android" version=">=3.6.0" /><!-- needed for gradle support -->
+        <engine name="cordova-plugman" version=">=3.6.0" /><!-- needed for gradle framework support -->
     </engines>
 
     <platform name="android">
