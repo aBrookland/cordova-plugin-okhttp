@@ -11,4 +11,4 @@ Plugin relies on building with Gradle, and so requires cordova-android@4.0.0 or 
 
 ## Installation:
 
-    cordova plugin add https://github.com/MobileChromeApps/cordova-plugin-okhttp.git
+    cordova plugin add https://github.com/aBrookland/cordova-plugin-okhttp.git
